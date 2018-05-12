@@ -1,0 +1,28 @@
+_repo: The-Maids-of-Paradise_28295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Fiction'
+title: The Maids of Paradise
+url: http://www.gutenberg.org/ebooks/28295
